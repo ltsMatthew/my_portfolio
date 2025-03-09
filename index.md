@@ -16,7 +16,7 @@ I'm a 21-year-old IT enthusiast with a passion for everything IT. I love solving
 
 This portfolio showcases my technical projects, and learning journey. From network security to automation, each project reflects my hands-on experience and commitment to mastering IT concepts. Feel free to explore and connect with me via Linkedin or email!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/matthewadriaanzen/) | 📧 [adriaanzenmatthew@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/matthewadriaanzen/) | 📧 adriaanzenmatthew@gmail.com
 
 There should be whitespace between paragraphs.
 
