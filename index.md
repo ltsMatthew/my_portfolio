@@ -8,6 +8,16 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+## About Me
+
+I'm a 21-year-old IT enthusiast with a passion for everything IT. I love solving technical challenges, learning new technologies, and expanding my skill set. Whether it’s learning new tools, scripting, or securing systems, I’m always eager to dive deeper into the tech world.
+
+## What You'll Find Here
+
+This portfolio showcases my technical projects, and learning journey. From network security to automation, each project reflects my hands-on experience and commitment to mastering IT concepts. Feel free to explore and connect with me via Linkedin or email!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/matthewadriaanzen/)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
