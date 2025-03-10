@@ -25,6 +25,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Projects
 
 📌 **My Journey with Nmap**
+
 🚀 Exploring network scanning with Nmap and learning about host discovery, service enumeration, and OS detection.
 
 🔹 What I Did:
