@@ -21,7 +21,7 @@ From network security to automation, each project reflects my hands-on experienc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/matthewadriaanzen/)
 
-## Projects
+## 🛠️ Projects
 
 📌 **My Journey with Nmap**
 
