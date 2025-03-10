@@ -37,8 +37,21 @@ Documented findings in a beginner-friendly guide
 
 🔹 Tools Used: Nmap, Parrot OS/Linux, HTB Academy
 
-🔹 **Read More:** [**View Guide**](https://ltsmatthew.github.io/nmap_project/) _(hosted on GitHub Pages)_
+🔹 **Read More:** [View Guide](https://ltsmatthew.github.io/nmap_project/) _(hosted on GitHub Pages)_
 
+---------------------------------------------------------------------------------------------------------------
+
+📌 **System Health Overview Bash Script**
+A Bash script that provides a quick snapshot of system health by monitoring uptime, service availability, CPU usage, memory/swap, disk space, and network interfaces.
+
+🔹 Features:
+✅ Checks system uptime
+✅ Monitors service status
+✅ Measures CPU and memory usage
+✅ Reports disk space usage
+✅ Displays network interface statuses
+
+📂 GitHub Repository: View on GitHub[View on Github](https://github.com/ltsMatthew/bash_system_healthcheck)
 
 ## Header 2
 
