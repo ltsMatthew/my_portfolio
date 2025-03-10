@@ -3,11 +3,6 @@ layout: default
 ---
 
 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
 ## 🌐 About Me
 
 I'm a IT enthusiast with a passion for everything IT.
@@ -69,6 +64,10 @@ A Bash script that provides a quick snapshot of system health by monitoring upti
 📂 GitHub Repository: [View on Github](https://github.com/ltsMatthew/bash_system_healthcheck)
 
 ## Header 2
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
 
 > This is a blockquote following a header.
 >
