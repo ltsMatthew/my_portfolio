@@ -42,6 +42,7 @@ Documented findings in a beginner-friendly guide
 ---------------------------------------------------------------------------------------------------------------
 
 📌 **System Health Overview Bash Script**
+
 A Bash script that provides a quick snapshot of system health by monitoring uptime, service availability, CPU usage, memory/swap, disk space, and network interfaces.
 
 🔹 Features:
