@@ -22,7 +22,7 @@ This portfolio showcases my technical projects, and learning journey. From netwo
 
 📌 **My Journey with Nmap**
 
-🚀 Exploring network scanning with Nmap and learning about host discovery, service enumeration, and OS detection.
+Exploring network scanning with Nmap and learning about host discovery, service enumeration, and OS detection. 🚀
 
 🔹 What I Did:
 
@@ -33,8 +33,6 @@ Documented findings in a beginner-friendly guide
 🔹 Tools Used: Nmap, Parrot OS/Linux, HTB Academy
 
 🔹 **Read More:** [**View Guide**](https://ltsmatthew.github.io/nmap_project/) _(hosted on GitHub Pages)_
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
