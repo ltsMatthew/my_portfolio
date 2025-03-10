@@ -10,8 +10,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## 🌐 About Me
 
-I'm a IT enthusiast with a passion for everything IT
-.
+I'm a IT enthusiast with a passion for everything IT.
+
 I love solving technical challenges, learning new technologies, and expanding my skill set.
 
 Whether it’s learning new tools, scripting, or securing systems, I’m always eager to dive deeper into the tech world.
