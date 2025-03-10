@@ -30,7 +30,9 @@ From network security to automation, each project reflects my hands-on experienc
 🔹 What I Did:
 
 Used Nmap to scan my local machine & analyze open ports
+
 Learned different scan techniques (SYN scan, OS detection, service versioning)
+
 Documented findings in a beginner-friendly guide
 
 🔹 Tools Used: Nmap, Parrot OS/Linux, HTB Academy
