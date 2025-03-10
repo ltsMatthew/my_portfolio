@@ -33,6 +33,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Used Nmap to scan local network & analyze open ports
 Learned different scan techniques (SYN scan, OS detection, service versioning)
 Documented findings in a beginner-friendly guide
+
 🔹 Tools Used: Nmap, Parrot OS/Linux, HTB Academy
 
 🔹 **Read More:** [**View Guide**](https://ltsmatthew.github.io/nmap_project/) _(hosted on GitHub Pages)_
