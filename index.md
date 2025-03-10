@@ -22,7 +22,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## Projects
+
+📌 **My Journey with Nmap**
+🚀 Exploring network scanning with Nmap and learning about host discovery, service enumeration, and OS detection.
+
+🔹 What I Did:
+
+Used Nmap to scan local network & analyze open ports
+Learned different scan techniques (SYN scan, OS detection, service versioning)
+Documented findings in a beginner-friendly guide
+🔹 Tools Used: Nmap, Parrot OS/Linux, HTB Academy
+
+🔹 **Read More:** [**View Guide**](https://ltsmatthew.github.io/nmap_project/) _(hosted on GitHub Pages)_
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
