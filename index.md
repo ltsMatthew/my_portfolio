@@ -18,10 +18,6 @@ This portfolio showcases my technical projects, and learning journey. From netwo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/matthewadriaanzen/)
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 ## Projects
 
 📌 **My Journey with Nmap**
