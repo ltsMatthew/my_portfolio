@@ -34,7 +34,7 @@ From network security to automation, each project reflects my hands-on experienc
 
 🔹 What I Did:
 
-Used Nmap to scan my local machine & analyze open ports
+Used Nmap to scan my local machine & analyse open ports
 
 Learned different scan techniques (SYN scan, OS detection, service versioning)
 
