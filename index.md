@@ -105,7 +105,7 @@ end
 
 <table>
     <tr>
-        <td><img src="CompTIACSIS.png" width="600"></td>
+        <td><img src="CompTIACSIS.png" width="800"></td>
     </tr>
 </table>
 
