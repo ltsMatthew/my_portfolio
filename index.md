@@ -103,11 +103,13 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-<table>
-    <tr>
-        <td><img src="CompTIACSIS.png" width="800"></td>
-    </tr>
-</table>
+<div style="text-align: center;">
+    <table>
+        <tr>
+            <td><img src="CompTIACSIS.png" width="800"></td>
+        </tr>
+    </table>
+</div>
 
 ###### Header 6
 
