@@ -62,8 +62,6 @@ A Bash script that provides a quick snapshot of system health by monitoring upti
 
 ✅ Displays network interface statuses
 
-🔹 Tools Used: Python, Regex (``re`` module), ``getpass`` module
-
 📂 GitHub Repository: [View on Github](https://github.com/ltsMatthew/bash_system_healthcheck)
 
 ---------------------------------------------------------------------------------------------------------------
@@ -79,6 +77,8 @@ A Python script that evaluates password security based on length, uppercase/lowe
 ✅ Provides real-time feedback on weak, moderate, or strong passwords
 
 ✅ Uses secure input to hide password entry
+
+🔹 Tools Used: Python, Regex (``re`` module), ``getpass`` module
 
 📂 GitHub Repository: [View on Github](https://github.com/ltsMatthew/py_password_checker/tree/main)
 
