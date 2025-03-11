@@ -66,6 +66,22 @@ A Bash script that provides a quick snapshot of system health by monitoring upti
 
 ---------------------------------------------------------------------------------------------------------------
 
+📌 **Password Strength Checker**
+
+A Python script that evaluates password security based on length, uppercase/lowercase letters, numbers, and special characters.
+
+🔹 Features:
+
+✅ Checks password strength based on multiple criteria
+
+✅ Provides real-time feedback on weak, moderate, or strong passwords
+
+✅ Uses secure input to hide password entry
+
+📂 GitHub Repository: [View on Github](https://github.com/ltsMatthew/py_password_checker/tree/main)
+
+---------------------------------------------------------------------------------------------------------------
+
 🚀 I'm constantly expanding my knowledge and working on new projects.
 
 🚀 Stay tuned for updates as I continue to build and explore more in IT!
