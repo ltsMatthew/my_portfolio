@@ -62,6 +62,8 @@ A Bash script that provides a quick snapshot of system health by monitoring upti
 
 ✅ Displays network interface statuses
 
+🔹 Tools Used: Python, Regex (``re`` module), ``getpass`` module
+
 📂 GitHub Repository: [View on Github](https://github.com/ltsMatthew/bash_system_healthcheck)
 
 ---------------------------------------------------------------------------------------------------------------
