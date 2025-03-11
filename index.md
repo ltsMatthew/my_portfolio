@@ -105,8 +105,8 @@ end
 
 <table>
     <tr>
-        <td><img src="CompTIACSIS.png" width="200"></td>
-        <td><img src="CompTIASecurity.png" width="200"></td>
+        <td><img src="CompTIACSIS.png" width="300"></td>
+        <td><img src="CompTIASecurity.png" width="300"></td>
     </tr>
 </table>
 
