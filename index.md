@@ -103,6 +103,15 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
+<table>
+    <tr>
+        <td><img src="certificates/cert1.jpg" width="200"></td>
+        <td><img src="certificates/cert2.jpg" width="200"></td>
+        <td><img src="certificates/cert3.jpg" width="200"></td>
+    </tr>
+</table>
+
+
 ###### Header 6
 
 | head1        | head two          | three |
