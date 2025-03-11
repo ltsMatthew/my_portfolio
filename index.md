@@ -105,9 +105,8 @@ end
 
 <table>
     <tr>
-        <td><img src="certificates/cert1.jpg" width="200"></td>
-        <td><img src="certificates/cert2.jpg" width="200"></td>
-        <td><img src="certificates/cert3.jpg" width="200"></td>
+        <td><img src="CompTIACSIS.png" width="200"></td>
+        <td><img src="CompTIASecurity.png" width="200"></td>
     </tr>
 </table>
 
