@@ -105,9 +105,7 @@ end
 
 <table>
     <tr>
-        <td><img src="CompTIACSIS.png" width="300"></td>
-        <td><img src="CompTIASecurity.png" width="300"></td>
-        <td><img src="Microsoft Certified Azure Fundamentals.png" width="300"></td>
+        <td><img src="CompTIACSIS.png" width="600"></td>
     </tr>
 </table>
 
