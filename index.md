@@ -107,9 +107,9 @@ end
     <tr>
         <td><img src="CompTIACSIS.png" width="300"></td>
         <td><img src="CompTIASecurity.png" width="300"></td>
+        <td><img src="Microsoft Certified Azure Fundamentals.png" width="300"></td>
     </tr>
 </table>
-
 
 ###### Header 6
 
